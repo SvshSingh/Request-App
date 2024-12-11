@@ -2,10 +2,6 @@
 
 Welcome to the Request Approval System repository! This project is built using Flutter and Dart for the frontend, and Firebase with Cloud Firestore for the backend. The system provides an asynchronous approval process, allowing users to submit requests for approval and designated approvers to review, approve, or reject those requests. This versatile system can be applied to various use cases like expense reimbursement, leave requests, and more.
 
-## Demo 
-
-- The Request Approval System is hosted on GitHub Pages. You can access the live demo [here](https://cynthiakonar.github.io/#/).
-- To see the Request Approval System in action, check out our [YouTube demo video](https://youtu.be/mb6_dcK6RAc).
 
 Login:
 
@@ -52,7 +48,7 @@ To run the Request Approval System locally, follow these steps:
 
 1. Clone the repository to your local machine:
    
-   git clone git@github.com:cynthiakonar/approval-system.git
+   git clone git@github.com:SvshSingh/Request-App.git
 
 2. Install Flutter and Dart if you haven't already. You can find installation instructions [here](https://docs.flutter.dev/get-started/install).
    
